@@ -1,6 +1,6 @@
 {
     "name": "test-project",
-    "version": "1.0.21",
+    "version": "1.0.6",
     "description": "A Vue.js project",
     "main": "src/main.js",
     "private": true,
